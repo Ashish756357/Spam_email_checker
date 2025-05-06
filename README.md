@@ -4,12 +4,6 @@ This web application predicts whether an email is **Spam** or **Ham (not spam)**
 
 ---
 
-## 🚀 Demo
-
-![Spam Detector Demo](https://github.com/Ashish756357/Spam_email_checker/assets/preview-image)
-
----
-
 ## 🧠 Features
 
 - ✅ Detects spam/ham from raw email text
